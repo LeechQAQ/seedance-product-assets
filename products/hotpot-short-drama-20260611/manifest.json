@@ -1,0 +1,14 @@
+﻿{
+    "created_at":  "2026-06-11T09:00:44.7458789Z",
+    "repo":  "LeechQAQ/seedance-product-assets",
+    "branch":  "main",
+    "batch":  "hotpot-short-drama-20260611",
+    "assets":  [
+                   {
+                       "index":  1,
+                       "source":  "C:\\Users\\Administrator\\Downloads\\454067e1-d6e5-41de-8b64-bbb9b7b61a4e.png",
+                       "repo_path":  "products/hotpot-short-drama-20260611/product-01.png",
+                       "url":  "https://raw.githubusercontent.com/LeechQAQ/seedance-product-assets/main/products/hotpot-short-drama-20260611/product-01.png"
+                   }
+               ]
+}
