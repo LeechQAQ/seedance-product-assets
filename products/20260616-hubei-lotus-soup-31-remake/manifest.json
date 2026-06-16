@@ -1,0 +1,14 @@
+﻿{
+    "created_at":  "2026-06-16T08:20:35.0844287Z",
+    "repo":  "LeechQAQ/seedance-product-assets",
+    "branch":  "main",
+    "batch":  "20260616-hubei-lotus-soup-31-remake",
+    "assets":  [
+                   {
+                       "index":  1,
+                       "source":  "C:\\Users\\Administrator\\Downloads\\6c7067426b528a39587fdec85f684ae0.jpg",
+                       "repo_path":  "products/20260616-hubei-lotus-soup-31-remake/product-01.jpg",
+                       "url":  "https://raw.githubusercontent.com/LeechQAQ/seedance-product-assets/main/products/20260616-hubei-lotus-soup-31-remake/product-01.jpg"
+                   }
+               ]
+}
