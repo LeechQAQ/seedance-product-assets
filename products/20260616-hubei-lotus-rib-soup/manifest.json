@@ -1,0 +1,14 @@
+﻿{
+    "created_at":  "2026-06-16T06:49:31.1517599Z",
+    "repo":  "LeechQAQ/seedance-product-assets",
+    "branch":  "main",
+    "batch":  "20260616-hubei-lotus-rib-soup",
+    "assets":  [
+                   {
+                       "index":  1,
+                       "source":  "C:\\Users\\Administrator\\AppData\\Local\\Temp\\codex-clipboard-82b0a7e0-20b3-4d7d-92d5-891e53caed08.png",
+                       "repo_path":  "products/20260616-hubei-lotus-rib-soup/product-01.png",
+                       "url":  "https://raw.githubusercontent.com/LeechQAQ/seedance-product-assets/main/products/20260616-hubei-lotus-rib-soup/product-01.png"
+                   }
+               ]
+}
