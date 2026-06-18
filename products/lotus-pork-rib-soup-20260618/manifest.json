@@ -1,0 +1,14 @@
+﻿{
+    "created_at":  "2026-06-18T07:54:47.0862147Z",
+    "repo":  "LeechQAQ/seedance-product-assets",
+    "branch":  "main",
+    "batch":  "lotus-pork-rib-soup-20260618",
+    "assets":  [
+                   {
+                       "index":  1,
+                       "source":  "C:\\Users\\Administrator\\Downloads\\6c7067426b528a39587fdec85f684ae0.jpg",
+                       "repo_path":  "products/lotus-pork-rib-soup-20260618/product-01.jpg",
+                       "url":  "https://raw.githubusercontent.com/LeechQAQ/seedance-product-assets/main/products/lotus-pork-rib-soup-20260618/product-01.jpg"
+                   }
+               ]
+}
