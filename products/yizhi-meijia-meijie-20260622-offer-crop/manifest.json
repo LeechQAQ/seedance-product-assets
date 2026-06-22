@@ -1,0 +1,14 @@
+﻿{
+    "created_at":  "2026-06-22T03:40:14.0404000Z",
+    "repo":  "LeechQAQ/seedance-product-assets",
+    "branch":  "main",
+    "batch":  "yizhi-meijia-meijie-20260622-offer-crop",
+    "assets":  [
+                   {
+                       "index":  1,
+                       "source":  "C:\\Users\\Administrator\\Documents\\New project\\outputs\\yizhi-meijia-20260622\\product-offer-crop.jpg",
+                       "repo_path":  "products/yizhi-meijia-meijie-20260622-offer-crop/product-01.jpg",
+                       "url":  "https://raw.githubusercontent.com/LeechQAQ/seedance-product-assets/main/products/yizhi-meijia-meijie-20260622-offer-crop/product-01.jpg"
+                   }
+               ]
+}
