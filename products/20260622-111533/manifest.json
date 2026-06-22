@@ -1,0 +1,14 @@
+﻿{
+    "created_at":  "2026-06-22T03:15:38.4720481Z",
+    "repo":  "LeechQAQ/seedance-product-assets",
+    "branch":  "main",
+    "batch":  "20260622-111533",
+    "assets":  [
+                   {
+                       "index":  1,
+                       "source":  "C:\\Users\\Administrator\\AppData\\Local\\Temp\\codex-clipboard-6f935149-2690-4e71-9e36-c23293d74305.png",
+                       "repo_path":  "products/20260622-111533/product-01.png",
+                       "url":  "https://raw.githubusercontent.com/LeechQAQ/seedance-product-assets/main/products/20260622-111533/product-01.png"
+                   }
+               ]
+}
