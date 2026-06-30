@@ -1,0 +1,14 @@
+﻿{
+    "created_at":  "2026-06-30T13:22:52.3997418Z",
+    "repo":  "LeechQAQ/seedance-product-assets",
+    "branch":  "main",
+    "batch":  "sprite-wuxia-20260630",
+    "assets":  [
+                   {
+                       "index":  1,
+                       "source":  "C:\\Users\\Administrator\\Downloads\\ChatGPT Image 2026年4月29日 18_42_42.png",
+                       "repo_path":  "products/sprite-wuxia-20260630/product-01.png",
+                       "url":  "https://raw.githubusercontent.com/LeechQAQ/seedance-product-assets/main/products/sprite-wuxia-20260630/product-01.png"
+                   }
+               ]
+}
