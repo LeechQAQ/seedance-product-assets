@@ -1,0 +1,14 @@
+﻿{
+    "created_at":  "2026-06-30T03:23:15.7978641Z",
+    "repo":  "LeechQAQ/seedance-product-assets",
+    "branch":  "main",
+    "batch":  "sk2-remake-20260630",
+    "assets":  [
+                   {
+                       "index":  1,
+                       "source":  "C:\\Users\\Administrator\\AppData\\Local\\Temp\\codex-clipboard-021195d4-8fb7-4655-b195-3bb8ea914f59.png",
+                       "repo_path":  "products/sk2-remake-20260630/product-01.png",
+                       "url":  "https://raw.githubusercontent.com/LeechQAQ/seedance-product-assets/main/products/sk2-remake-20260630/product-01.png"
+                   }
+               ]
+}
