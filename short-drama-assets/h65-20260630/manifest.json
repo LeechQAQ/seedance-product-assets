@@ -1,0 +1,14 @@
+﻿{
+    "created_at":  "2026-06-30T10:56:21.9212741Z",
+    "repo":  "LeechQAQ/seedance-product-assets",
+    "branch":  "main",
+    "batch":  "h65-20260630",
+    "assets":  [
+                   {
+                       "index":  1,
+                       "source":  "C:\\Users\\Administrator\\Desktop\\h65支架款正面.png",
+                       "repo_path":  "short-drama-assets/h65-20260630/product-01.png",
+                       "url":  "https://raw.githubusercontent.com/LeechQAQ/seedance-product-assets/main/short-drama-assets/h65-20260630/product-01.png"
+                   }
+               ]
+}
