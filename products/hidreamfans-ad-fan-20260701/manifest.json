@@ -1,0 +1,14 @@
+﻿{
+    "created_at":  "2026-07-01T08:38:05.8332978Z",
+    "repo":  "LeechQAQ/seedance-product-assets",
+    "branch":  "main",
+    "batch":  "hidreamfans-ad-fan-20260701",
+    "assets":  [
+                   {
+                       "index":  1,
+                       "source":  "C:\\Users\\Administrator\\AppData\\Local\\Temp\\codex-clipboard-d60582cb-238a-46e9-92cc-f38aef1685c5.png",
+                       "repo_path":  "products/hidreamfans-ad-fan-20260701/product-01.png",
+                       "url":  "https://raw.githubusercontent.com/LeechQAQ/seedance-product-assets/main/products/hidreamfans-ad-fan-20260701/product-01.png"
+                   }
+               ]
+}
