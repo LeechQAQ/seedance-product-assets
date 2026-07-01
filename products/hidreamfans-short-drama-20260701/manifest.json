@@ -1,0 +1,14 @@
+﻿{
+    "created_at":  "2026-07-01T07:08:19.9882922Z",
+    "repo":  "LeechQAQ/seedance-product-assets",
+    "branch":  "main",
+    "batch":  "hidreamfans-short-drama-20260701",
+    "assets":  [
+                   {
+                       "index":  1,
+                       "source":  "C:\\Users\\Administrator\\AppData\\Local\\Temp\\codex-clipboard-409260b8-694e-4b33-a5f3-a9097e1f0a95.png",
+                       "repo_path":  "products/hidreamfans-short-drama-20260701/product-01.png",
+                       "url":  "https://raw.githubusercontent.com/LeechQAQ/seedance-product-assets/main/products/hidreamfans-short-drama-20260701/product-01.png"
+                   }
+               ]
+}
