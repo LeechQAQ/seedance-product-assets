@@ -1,0 +1,20 @@
+{
+  "created_at": "2026-07-08T11:19:40.5858628Z",
+  "repo": "LeechQAQ/seedance-product-assets",
+  "branch": "main",
+  "batch": "flows-moon-126-generated-8-c2",
+  "assets": [
+    {
+      "index": 1,
+      "source": "C:\\Users\\Administrator\\Documents\\architecture\\outputs\\huxing-126\\generated\\huxing-07.png",
+      "repo_path": "huxing/flows-moon-126-generated-8-c2/product-01.png",
+      "url": "https://raw.githubusercontent.com/LeechQAQ/seedance-product-assets/main/huxing/flows-moon-126-generated-8-c2/product-01.png"
+    },
+    {
+      "index": 2,
+      "source": "C:\\Users\\Administrator\\Documents\\architecture\\outputs\\huxing-126\\generated\\huxing-08.png",
+      "repo_path": "huxing/flows-moon-126-generated-8-c2/product-02.png",
+      "url": "https://raw.githubusercontent.com/LeechQAQ/seedance-product-assets/main/huxing/flows-moon-126-generated-8-c2/product-02.png"
+    }
+  ]
+}
